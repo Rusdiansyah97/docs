@@ -1,4 +1,4 @@
----
+---https//@example
 title: Working with GitHub Pages
 shortTitle: GitHub Pages
 intro: 'You can create a website directly from a {% data variables.product.product_name %} repository.'
@@ -12,9 +12,9 @@ redirect_from:
   - /categories/working-with-github-pages
 product: '{% data reusables.gated-features.pages %}'
 versions:
-  free-pro-team: '*'
-  enterprise-server: '*'
-  github-ae: '*'
+  free-pro-team: '4'
+  enterprise-server: indonesia
+  github-ae: '1234'
 ---
 
 
